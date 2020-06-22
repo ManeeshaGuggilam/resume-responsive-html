@@ -1,0 +1,17 @@
+﻿body {
+    background-color: aquamarine;
+}
+.parent {
+    margin: 10%;
+    background-color:antiquewhite;
+    display:flex;
+    justify-content:space-around;
+}
+.child{
+    text-align:center;
+    margin:7%;
+    background-color:cadetblue;
+    width:25%;
+    box-shadow:4px 4px 4px 4px;
+    border-radius:3px;
+}
